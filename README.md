@@ -1,2 +1,2 @@
-# Cafe
-Cafeda taom buyurtma qilish va umumiy summani ko'rish uchun dastur
+# Restoran
+Restoranda taom buyurtma qilish va umumiy summani ko'rish uchun dastur
